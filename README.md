@@ -4,4 +4,7 @@
 - 
 **TensorFlow API ile Geliştirilmiş React Projesi** 
 
-Bu projede, TensorFlow API kullanarak geliştirilmiş bir React uygulaması yer almaktadır. Kullanıcılar, seçtikleri görüntüleri yüklediklerinde ImageNet veri kümesinden eğitilmiş olan MobileNet modeli kullanılarak sınıflandırma işlemleri gerçekleştirilir.
+Bu projede, TensorFlow API kullanarak geliştirilmiş bir React uygulaması yer almaktadır. Kullanıcılar, seçtikleri görüntüleri yüklediklerinde ImageNet veri küme![Ekran görüntüsü 2023-08-14 223740](https://github.com/emin-ozturk/tensorflow-image-classification/assets/62982765/56cd7926-a452-42b5-abb0-e472d2508041)
+sinden eğitilmiş olan MobileNet modeli kullanılarak sınıflandırma işlemleri gerçekleştirilir.
+
+![Uploading Ekran görüntüsü 2023-08-14 223740.png…]()
